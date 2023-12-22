@@ -1,3 +1,3 @@
 # Portfolio
 
-By Josh Gonzalez.... description description
+By Josh Gonzalez.... Created a portfolio
